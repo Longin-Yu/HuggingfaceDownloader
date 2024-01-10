@@ -1,0 +1,5 @@
+*.ipynb
+*.html
+__pycache__
+*.sh
+*.egg-info
